@@ -27,7 +27,7 @@ const NewNavbar= () => {
                    <Link to="/Classes" class="nav-link">Classes</Link>
                </li>
                <li class="nav-item">
-                    <Link to="/" class="nav-link">Coaches</Link>
+                    <Link to="/Coaches" class="nav-link">Coaches</Link>
                 </li>
                 <li class="/Blog">
                     <Link to="/Blog" class="nav-link">Blog</Link>
